@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "koin",
+  "version": "2.0.0",
+  "description": "Official Koin skills: set up Koin, write Koin code, migrate from Hilt, Dagger, Toothpick, Kodein, Metro or older Koin, and diagnose Koin apps with Kotzilla. Koin 4.x with the Koin Compiler Plugin — Annotations (JSR-330 compatible) or DSL, compile safe in both, Kotlin Multiplatform.",
+  "author": {
+    "name": "Kotzilla"
+  },
+  "homepage": "https://github.com/InsertKoinIO/koin-skills",
+  "documentationUrl": "https://insert-koin.io/docs/tooling/ai-agents/",
+  "repository": "https://github.com/InsertKoinIO/koin-skills",
+  "supportUrl": "https://github.com/InsertKoinIO/koin-skills/issues",
+  "license": "Apache-2.0",
+  "privacyPolicyUrl": "https://github.com/InsertKoinIO/koin-skills/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://kotzilla.io/terms-and-conditions",
+  "keywords": [
+    "koin",
+    "dependency-injection",
+    "kotlin",
+    "android",
+    "kmp",
+    "migration",
+    "hilt",
+    "dagger",
+    "kodein",
+    "metro"
+  ],
+  "mcpServers": {
+    "kotzilla": {
+      "type": "http",
+      "url": "https://mcp.kotzilla.io/mcp"
+    }
+  }
+}
